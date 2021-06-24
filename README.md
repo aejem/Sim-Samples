@@ -1,3 +1,3 @@
 Process-Based Discrete Simulation
-In-Progress
+In-Progress.
 I just added a new car wash simulation
